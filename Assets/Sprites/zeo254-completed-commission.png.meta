@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 5fcd6750fca3ced4a8217e902e7d4c07
+guid: 586543d693c3b154a949594a55777a1e
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -105,547 +105,400 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: free_0
+      name: zeo254-completed-commission_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2030372c95b1d14eaebd58d13a3b890
+      internalID: 294871303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeo254-completed-commission_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a7b0daa23839f84ba57c588579a1e7e
+      internalID: 2006729703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeo254-completed-commission_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 332dae75d15676747aa009bce6e1f9c0
+      internalID: 1656612879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeo254-completed-commission_3
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 32
+        width: 40
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1eed5c4035dc1f46b90db76f99f7f21
+      internalID: -442958131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeo254-completed-commission_4
       rect:
         serializedVersion: 2
         x: 0
         y: 32
-        width: 63
-        height: 73
+        width: 8
+        height: 6
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 05046fef50a353c4a9ceb0b6c1aac3c0
-      internalID: 176652563
+      spriteID: b5d83148ab1c4ae48b439a90fc892c04
+      internalID: 1317611722
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: free_1
-      rect:
-        serializedVersion: 2
-        x: 192
-        y: 112
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 41104a179bc02504294b2df88559a1ea
-      internalID: -1512177193
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: free_2
-      rect:
-        serializedVersion: 2
-        x: 66
-        y: 32
-        width: 75
-        height: 76
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 316869ae9c49ec14ba8cdce7b8f442b7
-      internalID: 178290338
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: free_3
-      rect:
-        serializedVersion: 2
-        x: 2
-        y: 16
-        width: 12
-        height: 12
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f25266f3b0a033741912ad2151610736
-      internalID: -507520240
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: free_4
-      rect:
-        serializedVersion: 2
-        x: 18
-        y: 17
-        width: 12
-        height: 12
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ec1ef6d9a1695be41a1b729899b6eec1
-      internalID: 865187104
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: free_5
-      rect:
-        serializedVersion: 2
-        x: 34
-        y: 16
-        width: 12
-        height: 12
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f7d05858e345ddc4194d768a9eb2f998
-      internalID: -1388440591
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: free_6
-      rect:
-        serializedVersion: 2
-        x: 50
-        y: 17
-        width: 12
-        height: 12
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: af75744b053373b47a9de04dc78ed1c3
-      internalID: 1631888581
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: free_7
-      rect:
-        serializedVersion: 2
-        x: 145
-        y: 1
-        width: 14
-        height: 30
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 07d748eda73b6a24c85f36f44056b932
-      internalID: 887928690
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: free_8
-      rect:
-        serializedVersion: 2
-        x: 160
-        y: 1
-        width: 16
-        height: 26
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b0b05e648913fd44b923a6e677ae1a94
-      internalID: 2139974535
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: free_9
-      rect:
-        serializedVersion: 2
-        x: 177
-        y: 17
-        width: 15
-        height: 12
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b0332350efe802e4c944e5ef1be6aa3c
-      internalID: -1778237284
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: free_10
-      rect:
-        serializedVersion: 2
-        x: 2
-        y: 0
-        width: 12
-        height: 12
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4270cfde68a1f6042b676bd8a0433df7
-      internalID: 1884880050
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: free_11
-      rect:
-        serializedVersion: 2
-        x: 18
-        y: 1
-        width: 12
-        height: 12
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 426a5eb004fdd33468da46d2c62cb050
-      internalID: -941967498
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: free_12
-      rect:
-        serializedVersion: 2
-        x: 34
-        y: 0
-        width: 12
-        height: 12
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 764992fae9dd76e4ab2279dc64477322
-      internalID: -1929668391
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: free_13
-      rect:
-        serializedVersion: 2
-        x: 50
-        y: 1
-        width: 12
-        height: 12
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 94d66ce711c7f484bbf0e8f1383cc481
-      internalID: -67801696
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: free_14
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 0
-        width: 14
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3dc48c22b0b535e46b130184607ef926
-      internalID: 1512534900
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: free_15
-      rect:
-        serializedVersion: 2
-        x: 177
-        y: 1
-        width: 14
-        height: 13
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 62089aa0a8a68e645bd76e968a3a0e82
-      internalID: -1343032315
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: free_16
-      rect:
-        serializedVersion: 2
-        x: 86
-        y: 144
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 364e56aaded6ddf45bee1a2bcbb63690
-      internalID: -1474583337
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: free_17
-      rect:
-        serializedVersion: 2
-        x: 104
-        y: 128
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8f3aaad90f338fb4fa59e13883e13e6f
-      internalID: 54994947
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: free_18
-      rect:
-        serializedVersion: 2
-        x: 47
-        y: 111
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: cb6f54f14a112b1429b3bbaae6649c51
-      internalID: -819512900
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: free_19
+      name: zeo254-completed-commission_5
       rect:
         serializedVersion: 2
         x: 1
-        y: 114
+        y: 18
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a1f41b4b8e4184ebd095d8cf8bac13
+      internalID: 1886015638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeo254-completed-commission_6
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 18
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20534cee395b9ce4cb962f4e87f28da9
+      internalID: 1822503117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeo254-completed-commission_7
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 19
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b8f59f56abdf0a4d9f775e84c9fd50d
+      internalID: 22146281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeo254-completed-commission_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
         width: 16
-        height: 16
+        height: 13
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5751405612d063a4c993c3d16c4e302c
-      internalID: 722520026
+      spriteID: 0879b48198efe51489734fd20c29c9b4
+      internalID: 840103625
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: free_20
+      name: zeo254-completed-commission_9
       rect:
         serializedVersion: 2
-        x: 145
-        y: 128
-        width: 15
-        height: 16
+        x: 16
+        y: 9
+        width: 7
+        height: 7
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5f1f3ebd549882f49a913bccf38e7d98
-      internalID: 660761494
+      spriteID: 32817539045cae24eb8ad025edc9c9b6
+      internalID: -1635523201
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: free_21
+      name: zeo254-completed-commission_10
       rect:
         serializedVersion: 2
-        x: 46
-        y: 143
-        width: 16
-        height: 16
+        x: 42
+        y: 9
+        width: 6
+        height: 7
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 85b083cc2152844449f529c3b650b99e
-      internalID: 531971861
+      spriteID: 7726ee09531a8f148b1b6397868c8aae
+      internalID: 1437508334
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: free_22
+      name: zeo254-completed-commission_11
       rect:
         serializedVersion: 2
-        x: 4
-        y: 144
-        width: 16
-        height: 15
+        x: 48
+        y: 0
+        width: 6
+        height: 4
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 37081ed01c2d5914ca66a97601a92316
-      internalID: -997443174
+      spriteID: 551f8b866c7cc3340912589d9eea8555
+      internalID: -1597964138
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: free_23
+      name: zeo254-completed-commission_12
       rect:
         serializedVersion: 2
-        x: 19
-        y: 126
-        width: 16
-        height: 16
+        x: 75
+        y: 0
+        width: 5
+        height: 4
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 860f37af9fe937441b9be1f6b35794e9
-      internalID: 23530855
+      spriteID: eb3e708d492175e4eaa60f549c172896
+      internalID: -1428953059
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: free_24
+      name: zeo254-completed-commission_13
       rect:
         serializedVersion: 2
-        x: 128
+        x: 112
         y: 112
         width: 16
-        height: 15
+        height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4c029fc0393c99a40aa599fad1699395
-      internalID: 207552706
+      spriteID: 007121b3aa1097e4a898a6c284fd0fd7
+      internalID: 420413760
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: free_25
+      name: zeo254-completed-commission_14
       rect:
         serializedVersion: 2
-        x: 160
-        y: 128
+        x: 88
+        y: 70
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f1accb2035e852042aa93b61d4619451
-      internalID: 1377245495
+      spriteID: 7f64d36acc41c58458ba44671c23cf27
+      internalID: 694512199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeo254-completed-commission_15
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba1e2b5c92c5104e883a4059bb0064f
+      internalID: 1455629415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeo254-completed-commission_16
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 15
+        width: 37
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f05d2b27be51034083c45bbbd815af9
+      internalID: -382538940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeo254-completed-commission_17
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd41e54d13991a42a501cf0284f8f51
+      internalID: 295534242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeo254-completed-commission_18
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a85e6a8dec3bd644a07bfce82fec3ae
+      internalID: -1449460762
       vertices: []
       indices: 
       edges: []
@@ -661,32 +514,25 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      free_23: 23530855
-      free_13: -67801696
-      free_5: -1388440591
-      free_16: -1474583337
-      free_1: -1512177193
-      free_21: 531971861
-      free_25: 1377245495
-      free_24: 207552706
-      free_17: 54994947
-      free_2: 178290338
-      free_7: 887928690
-      free_19: 722520026
-      free_0: 176652563
-      free_8: 2139974535
-      free_15: -1343032315
-      free_10: 1884880050
-      free_9: -1778237284
-      free_22: -997443174
-      free_20: 660761494
-      free_3: -507520240
-      free_4: 865187104
-      free_14: 1512534900
-      free_18: -819512900
-      free_12: -1929668391
-      free_11: -941967498
-      free_6: 1631888581
+      zeo254-completed-commission_2: 1656612879
+      zeo254-completed-commission_15: 1455629415
+      zeo254-completed-commission_14: 694512199
+      zeo254-completed-commission_10: 1437508334
+      zeo254-completed-commission_5: 1886015638
+      zeo254-completed-commission_8: 840103625
+      zeo254-completed-commission_16: -382538940
+      zeo254-completed-commission_0: 294871303
+      zeo254-completed-commission_9: -1635523201
+      zeo254-completed-commission_4: 1317611722
+      zeo254-completed-commission_17: 295534242
+      zeo254-completed-commission_3: -442958131
+      zeo254-completed-commission_11: -1597964138
+      zeo254-completed-commission_6: 1822503117
+      zeo254-completed-commission_7: 22146281
+      zeo254-completed-commission_12: -1428953059
+      zeo254-completed-commission_1: 2006729703
+      zeo254-completed-commission_13: 420413760
+      zeo254-completed-commission_18: -1449460762
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
